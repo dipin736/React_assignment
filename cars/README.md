@@ -20,11 +20,11 @@ Car listing website
 npm start(to run)
 
 # Techstack used
-React.js
-Tailwind CSS
-React-router-dom
-Material UI
-React-icon
+React.js.
+Tailwind CSS.
+React-router-dom.
+Material UI.
+React-icon.
 
 # Available Scripts
 In the project directory, you can run:
