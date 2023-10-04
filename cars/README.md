@@ -10,11 +10,9 @@ Currently, two official plugins are available:
 Car listing website
 
 # Features
-1.view properties.
-
-2.click property card to go to details page.
-
-3.show more button for pagination
+1.Search Cars.
+2.Advanced Pagination.
+3.Attractive UI.
 
 # Get Started
 npm start(to run)
