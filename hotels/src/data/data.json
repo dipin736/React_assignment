@@ -1,0 +1,461 @@
+{
+  "London": [
+    {
+      "id": "london1",
+      "imageurl": "https://media.rightmove.co.uk/52k/51305/130177625/51305_7237_IMG_00_0000.jpeg",
+      "location": "One Hyde Park, Knightsbridge",
+      "name": "Luxury Apartment in London",
+      "num_rooms": 3,
+      "num_beds": 2,
+      "num_baths": 2,
+      "area_size_sqft": 1500,
+      "rent": 2500
+    },
+    {
+      "id": "london2",
+      "imageurl": "https://lid.zoocdn.com/354/255/e63e56b9cc79c77ecba5f43a9a53e0cc4a7887be.jpg:p",
+      "location": "Penshurst Road, Thornton Heath CR7",
+      "name": "terraced House in London",
+      "num_rooms": 5,
+      "num_beds": 4,
+      "num_baths": 3,
+      "area_size_sqft": 2200,
+      "rent": 3200
+    },
+    {
+      "id": "london3",
+      "imageurl": "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1259i215%2F194mcerbjz3q44jfghb18k1j21i215&option=N&h=472&permitphotoenlargement=false",
+      "location": "Great Portland Street,London",
+      "name": "Bunglow in London",
+      "num_rooms": 2,
+      "num_beds": 1,
+      "num_baths": 1,
+      "area_size_sqft": 800,
+      "rent": 1500
+    },
+    {
+      "id": "london4",
+      "imageurl": "https://media.onthemarket.com/properties/13773293/1459854557/image-0-480x320.webp",
+      "location": "Balliol Road, Welling, DA16",
+      "name": "Semi Detached House",
+      "num_rooms": 4,
+      "num_beds": 3,
+      "num_baths": 3,
+      "area_size_sqft": 2800,
+      "rent": 4000
+    },
+    {
+      "id": "london5",
+      "imageurl": "https://media.onthemarket.com/properties/13773291/1459854540/image-0-480x320.webp",
+      "location": "Reginald Ellingworth Street, Dagenham",
+      "name": "Appartment in Dagenham",
+      "num_rooms": 6,
+      "num_beds": 5,
+      "num_baths": 4,
+      "area_size_sqft": 3500,
+      "rent": 5000
+    },
+    {
+      "id": "london6",
+      "imageurl": "https://s.abcnews.com/images/US/ny-real-estate-01-as-gty-200625_hpEmbed_2_3x2_992.jpg",
+      "location": "1516 Cedar Road, London",
+      "name": "Modern Apartment with Balcony",
+      "num_rooms": 2,
+      "num_beds": 1,
+      "num_baths": 2,
+      "area_size_sqft": 1100,
+      "rent": 1800
+    },
+    {
+      "id": "london7",
+      "imageurl": "https://media.onthemarket.com/properties/13773056/1459836284/image-0-480x320.webp",
+      "location": "123 Main Street, London",
+      "name": "Luxury Maisonette in London",
+      "num_rooms": 3,
+      "num_beds": 2,
+      "num_baths": 2,
+      "area_size_sqft": 1500,
+      "rent": 2500
+    },
+    {
+      "id": "london8",
+      "imageurl": "https://img.jamesedition.com/listing_images/2021/11/18/14/29/12/485b6aed-461b-4795-8747-bb533026dbd3/je/556x342xcxm.jpg",
+      "location": "456 Elm Street, London",
+      "name": "Spacious Penthouse in London Suburb",
+      "num_rooms": 5,
+      "num_beds": 4,
+      "num_baths": 3,
+      "area_size_sqft": 2200,
+      "rent": 3200
+    },
+    {
+      "id": "london9",
+      "imageurl": "https://media.architecturaldigest.com/photos/6032ec36b526975f5405e0a2/16:9/w_2560%2Cc_limit/GettyImages-1068413764.jpg",
+      "location": "789 Oak Avenue, London",
+      "name": "Studio Apartment near Hyde Park",
+      "num_rooms": 2,
+      "num_beds": 1,
+      "num_baths": 1,
+      "area_size_sqft": 800,
+      "rent": 1500
+    },
+    {
+      "id": "london10",
+      "imageurl": "https://img.jamesedition.com/listing_images/2023/06/20/16/15/23/7d256f76-4c93-4f80-95b9-e9bfe3863613/je/556x342xcxm.jpg",
+      "location": "1011 Maple Lane, London",
+      "name": "Luxury Villa in London",
+      "num_rooms": 4,
+      "num_beds": 3,
+      "num_baths": 3,
+      "area_size_sqft": 2800,
+      "rent": 4000
+    }
+  ],
+  "Mumbai": [
+    {
+      "id": "mumbai1",
+      "imageurl": "https://luxuryproperties.in/wp-content/uploads/2020/06/Lodha-Altamount.jpg",
+      "location": "Altamount Rd, Mumbai",
+      "name": "Lodha Altamount",
+      "num_rooms": 6,
+      "num_beds": 4,
+      "num_baths": 5,
+      "area_size_sqft": 4000,
+      "rent": 7500
+    },
+    {
+      "id": "mumbai2",
+      "imageurl": "https://luxuryproperties.in/wp-content/uploads/2019/01/Piramal-Mahalaxmi-View-3.jpg",
+      "location": "Piramal Mahalaxmi, Mahalaxmi East , Mumbai",
+      "name": "Piramal Mahalaxmi",
+      "num_rooms": 4,
+      "num_beds": 3,
+      "num_baths": 3,
+      "area_size_sqft": 2200,
+      "rent": 5000
+    },
+    {
+      "id": "mumbai3",
+      "imageurl": "https://images.livemint.com/img/2021/06/08/1600x900/mumba--621x414_1623150501733.jpg",
+      "location": "789 Garden Street, Mumbai",
+      "name": "Cozy Studio in the City Center",
+      "num_rooms": 1,
+      "num_beds": 1,
+      "num_baths": 1,
+      "area_size_sqft": 600,
+      "rent": 1200
+    },
+    {
+      "id": "mumbai4",
+      "imageurl": "https://luxuryproperties.in/wp-content/uploads/2019/01/Lodha-Maison-Interior-View-2.jpg",
+      "location": "Worli, South Mumbai",
+      "name": "Modern Apartment, Lodha Maison",
+      "num_rooms": 5,
+      "num_beds": 4,
+      "num_baths": 4,
+      "area_size_sqft": 2800,
+      "rent": 6000
+    },
+    {
+      "id": "mumbai5",
+      "imageurl": "https://storage.googleapis.com/realtyplusmag-news-photo/news-photo/107296.mumbai-suburbs.png",
+      "location": "1314 Skyline Road, Mumbai",
+      "name": "Bungalow in a Gated Community",
+      "num_rooms": 7,
+      "num_beds": 6,
+      "num_baths": 5,
+      "area_size_sqft": 5000,
+      "rent": 9000
+    },
+    {
+      "id": "mumbai6",
+      "imageurl": "https://luxuryproperties.in/wp-content/uploads/2019/01/Trump-Towers-View-1-.jpg",
+      "location": "The Park, Worli, South Mumbai",
+      "name": "Luxury Apartment, Trump Towers",
+      "num_rooms": 2,
+      "num_beds": 1,
+      "num_baths": 2,
+      "area_size_sqft": 1100,
+      "rent": 1800
+    },
+    {
+      "id": "mumbai7",
+      "imageurl": "https://www.indiabullsrealestate.com/blog/wp-content/uploads/2019/04/top-5-locations-image-777x435.jpg",
+      "location": "123 Beach Road, Mumbai",
+      "name": "Seaside Villa with Pool",
+      "num_rooms": 6,
+      "num_beds": 4,
+      "num_baths": 5,
+      "area_size_sqft": 4000,
+      "rent": 7500
+    },
+    {
+      "id": "mumbai8",
+      "imageurl": "https://img.jamesedition.com/listing_images/2022/09/30/12/29/27/d09ac1b8-631e-416b-ba9e-db3dfd8164ca/je/556x342xcxm.jpg",
+      "location": "Lonavla, Mumbai",
+      "name": "Luxurious House in Lonavala",
+      "num_rooms": 4,
+      "num_beds": 3,
+      "num_baths": 3,
+      "area_size_sqft": 2200,
+      "rent": 5000
+    },
+    {
+      "id": "mumbai9",
+      "imageurl": "https://images.livemint.com/img/2021/06/08/1600x900/mumba--621x414_1623150501733.jpg",
+      "location": "789 Garden Street, Mumbai",
+      "name": "Cozy Studio in the City Center",
+      "num_rooms": 1,
+      "num_beds": 1,
+      "num_baths": 1,
+      "area_size_sqft": 600,
+      "rent": 1200
+    },
+    {
+      "id": "mumbai10",
+      "imageurl": "https://www.nrosedevelopers.in/assets/images/newimages/Top%205%20Reasons%20to%20Invest%20in%20Mumbai%20Real%20Estate.jpg",
+      "location": "1011 Lakeside Drive, Mumbai",
+      "name": "Modern Penthouse with Ocean View",
+      "num_rooms": 5,
+      "num_beds": 4,
+      "num_baths": 4,
+      "area_size_sqft": 2800,
+      "rent": 6000
+    }
+  ],
+  "Paris": [
+    {
+      "id": "paris1",
+      "imageurl": "https://img.jamesedition.com/listing_images/2022/10/04/15/44/22/e957bc7b-0558-4a48-ba21-31e2bc44fcd2/je/556x342xcxm.jpg",
+      "location": "lle-De-France, France",
+      "name": "Chateau in Paris",
+      "num_rooms": 15,
+      "num_beds": 10,
+      "num_baths": 10,
+      "area_size_sqft": 17222,
+      "rent": 3500
+    },
+    {
+      "id": "paris2",
+      "imageurl": "https://www.parisperfect.com/blog/wp-content/uploads/2017/07/Picture2-e1499906772578.jpg",
+      "location": "456 Louvre Street, Paris",
+      "name": "Charming Parisian Townhouse",
+      "num_rooms": 5,
+      "num_beds": 4,
+      "num_baths": 3,
+      "area_size_sqft": 2200,
+      "rent": 4500
+    },
+    {
+      "id": "paris3",
+      "imageurl": "https://pic.le-cdn.com/thumbs/520x390/480/1/properties/Property-fc4c9f172a84c827ea6414a3eba690ad-128580556.jpg",
+      "location": "lle-De-France, France",
+      "name": "Appartment in Paris",
+      "num_rooms": 1,
+      "num_beds": 1,
+      "num_baths": 1,
+      "area_size_sqft": 600,
+      "rent": 1500
+    },
+    {
+      "id": "paris4",
+      "imageurl": "https://www.barnes-international.com/images/visuels_articles/1101_2iDte_v.jpg",
+      "location": "1011 Seine River Lane, Paris",
+      "name": "Riverside Penthouse with Terrace",
+      "num_rooms": 3,
+      "num_beds": 2,
+      "num_baths": 2,
+      "area_size_sqft": 1400,
+      "rent": 2800
+    },
+    {
+      "id": "paris5",
+      "imageurl": "https://pic.le-cdn.com/thumbs/520x390/480/1/properties/Property-579c8f8fd726f28c9bbbbe233e0be6d0-127327825.jpg",
+      "location": "1314 Champs-Élysées Street, Paris",
+      "name": "Luxury Condo on Champs-Élysées",
+      "num_rooms": 4,
+      "num_beds": 3,
+      "num_baths": 3,
+      "area_size_sqft": 2000,
+      "rent": 4000
+    },
+    {
+      "id": "paris6",
+      "imageurl": "https://medias.residences-immobilier.com/articles_RI/images/Photo_8017_646.jpg",
+      "location": "1516 Notre-Dame Road, Paris",
+      "name": "Modern Apartment in Notre-Dame District",
+      "num_rooms": 2,
+      "num_beds": 1,
+      "num_baths": 2,
+      "area_size_sqft": 1000,
+      "rent": 2000
+    },
+    {
+      "id": "paris7",
+      "imageurl": "https://www.barnes-paris.com/images/visuels_articles/619_y8fHY_v.jpg",
+      "location": "123 Eiffel Tower Avenue, Paris",
+      "name": "Elegant Apartment with a View",
+      "num_rooms": 4,
+      "num_beds": 3,
+      "num_baths": 2,
+      "area_size_sqft": 1800,
+      "rent": 3500
+    },
+    {
+      "id": "paris8",
+      "imageurl": "https://www.parisperfect.com/blog/wp-content/uploads/2017/07/Picture2-e1499906772578.jpg",
+      "location": "456 Louvre Street, Paris",
+      "name": "Charming Parisian Townhouse",
+      "num_rooms": 5,
+      "num_beds": 4,
+      "num_baths": 3,
+      "area_size_sqft": 2200,
+      "rent": 4500
+    },
+    {
+      "id": "paris9",
+      "imageurl": "https://www.michaelzingraf.com/storage/images/u88nkwJ8i1yzkc2fxN85L6ytGf7aHsrOq5pqTW5A.jpeg",
+      "location": "789 Montmartre Road, Paris",
+      "name": "Studio in Historic Montmartre",
+      "num_rooms": 1,
+      "num_beds": 1,
+      "num_baths": 1,
+      "area_size_sqft": 600,
+      "rent": 1500
+    },
+    {
+      "id": "paris10",
+      "imageurl": "https://www.barnes-international.com/images/visuels_articles/1101_2iDte_v.jpg",
+      "location": "1011 Seine River Lane, Paris",
+      "name": "Riverside Penthouse with Terrace",
+      "num_rooms": 3,
+      "num_beds": 2,
+      "num_baths": 2,
+      "area_size_sqft": 1400,
+      "rent": 2800
+    }
+  ],
+  "New York": [
+    {
+      "id": "newyork1",
+      "imageurl": "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fn5crd3as7cde4xaq0rhbrjhkg0i215&option=N&h=472&permitphotoenlargement=false",
+      "location": "515 Park Avenue, New York",
+      "name": "Luxury Apartment in New York ",
+      "num_rooms": 3,
+      "num_beds": 2,
+      "num_baths": 2,
+      "area_size_sqft": 1500,
+      "rent": 3500
+    },
+    {
+      "id": "newyork2",
+      "imageurl": "https://photos.zillowstatic.com/fp/2e995a5ac94b0687c80eecd5a7faa5a9-p_e.webp",
+      "location": "4 E 79th St, New York",
+      "name": "Luxury TownHouse ",
+      "num_rooms": 5,
+      "num_beds": 4,
+      "num_baths": 4,
+      "area_size_sqft": 2500,
+      "rent": 5500
+    },
+    {
+      "id": "newyork3",
+      "imageurl": "https://photos.zillowstatic.com/fp/22ad4b37cc20de8305c808d417421459-p_e.webp",
+      "location": "53 W 53rd, New York",
+      "name": "Luxury Penthouse in Downtown",
+      "num_rooms": 1,
+      "num_beds": 1,
+      "num_baths": 1,
+      "area_size_sqft": 600,
+      "rent": 2000
+    },
+    {
+      "id": "newyork4",
+      "imageurl": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202211/london_5-sixteen_nine.jpg?size=948:533",
+      "location": "1011 Central Park West, New York",
+      "name": "Central Park View Penthouse",
+      "num_rooms": 4,
+      "num_beds": 3,
+      "num_baths": 3,
+      "area_size_sqft": 2000,
+      "rent": 6000
+    },
+    {
+      "id": "newyork5",
+      "imageurl": "https://photos.zillowstatic.com/fp/b5538e8159d01ebdad0a679b06ca220d-p_e.webp",
+      "location": "30 Mathews Rd, WainScott",
+      "name": "Luxury Villa for Sale",
+      "num_rooms": 6,
+      "num_beds": 5,
+      "num_baths": 4,
+      "area_size_sqft": 3000,
+      "rent": 4500
+    },
+    {
+      "id": "newyork6",
+      "imageurl": "https://tpfg3.imgix.net/210712-wg_2022-07-20-134706_pyki.jpg?q=60&auto=format&w=768",
+      "location": "1516 Brooklyn Street, New York",
+      "name": "Modern Apartment in Brooklyn",
+      "num_rooms": 2,
+      "num_beds": 1,
+      "num_baths": 1,
+      "area_size_sqft": 800,
+      "rent": 1800
+    },
+    {
+      "id": "newyork7",
+      "imageurl": "https://photos.zillowstatic.com/fp/b5538e8159d01ebdad0a679b06ca220d-p_e.webp",
+      "location": "155 Surfside Drive, Bridgehampton",
+      "name": "Luxurious Bunglow in New York",
+      "num_rooms": 3,
+      "num_beds": 2,
+      "num_baths": 2,
+      "area_size_sqft": 1500,
+      "rent": 3500
+    },
+    {
+      "id": "newyork8",
+      "imageurl": "https://www.arabianbusiness.com/cloud/2022/10/24/Mayfair-London.jpg",
+      "location": "456 Park Avenue, New York",
+      "name": "Luxury Condo in Upper East Side",
+      "num_rooms": 5,
+      "num_beds": 4,
+      "num_baths": 4,
+      "area_size_sqft": 2500,
+      "rent": 5500
+    },
+    {
+      "id": "newyork9",
+      "imageurl": "https://mediavault.point2.com/p2h/listing/301c/4fc4/0b73/96c42d6b23f79185a74e/nwm_large.jpg",
+      "location": "201 Lily Pond Lane, East Hampton, NY 11937",
+      "name": "Beach Side Villa, Hampton",
+      "num_rooms": 1,
+      "num_beds": 1,
+      "num_baths": 1,
+      "area_size_sqft": 600,
+      "rent": 2000
+    },
+    {
+      "id": "newyork10",
+      "imageurl": "https://occupa.co.uk/wp-content/uploads/2018/09/osl-area-marylebone.jpg",
+      "location": "789 Wall Street, New York",
+      "name": "Studio Apartment in Financial District",
+      "num_rooms": 1,
+      "num_beds": 1,
+      "num_baths": 1,
+      "area_size_sqft": 600,
+      "rent": 2000
+    },
+    {
+      "id": "newyork11",
+      "imageurl": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202211/london_5-sixteen_nine.jpg?size=948:533",
+      "location": "1011 Central Park West, New York",
+      "name": "Central Park View Penthouse",
+      "num_rooms": 4,
+      "num_beds": 3,
+      "num_baths": 3,
+      "area_size_sqft": 2000,
+      "rent": 6000
+    }
+  ]
+}
