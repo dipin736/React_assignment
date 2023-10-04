@@ -11,7 +11,9 @@ Car listing website
 
 # Features
 1.view properties.
-2.click property card to go to details page
+
+2.click property card to go to details page.
+
 3.show more button for pagination
 
 # Get Started
