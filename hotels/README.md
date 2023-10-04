@@ -21,9 +21,13 @@ npm start(to run)
 
 # Techstack used
 React.js.
+
 Tailwind CSS.
+
 React-router-dom.
+
 Material UI.
+
 React-icon.
 
 # Available Scripts
